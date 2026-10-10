@@ -7,7 +7,7 @@ target_cmake_version="4.3.0"
 doxygen_min="1.10.0"
 _doxygen_min="${doxygen_min//\./_}"  # Convert dots to underscores for URL
 doxygen_max="1.12.0"
-default_cuda_version="12.9"
+default_cuda_version="12.9.1"
 default_cuda_build="575.57.08"
 
 # Default value for arguments
